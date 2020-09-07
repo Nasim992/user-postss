@@ -1,0 +1,10 @@
+.postDetails-container{
+    background-color: white;
+}
+
+.post-card-container{
+    margin: 0 200px;
+}
+.post-card-container h1{
+    margin-top: 0;
+}
